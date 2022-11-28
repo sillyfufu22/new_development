@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-`https://sillyfufu22.github.io/development` 
+`https://sillyfufu22.github.io/new_development` 
 
 ### Goal and Value of the Application
 The goal of this website is to order Burmese food online with features such as filtering for food diet (vegan, vegetarian, etc.) and course (main dish, appetizer, etc.) and sorting for price. Users can also browse the website to learn more about Burmese cuisine by exploring food items. On the website, food items are displayed and a short description is also provided to give more information about the dish. There is also a shopping cart on the right side of the page to keep track of items ordered along with their quantity and price. The total price is also given at the bottom. Users can add or remove items on the shopping cart list.
